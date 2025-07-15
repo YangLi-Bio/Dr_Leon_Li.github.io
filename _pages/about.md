@@ -9,7 +9,7 @@ redirect_from:
 
 Dr. Yang Li received his Ph.D. in Operations Research and Control Theory from the [School of Mathematics](https://www.math.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2019, under the supervision of [Prof. Guojun Li](https://faculty.sdu.edu.cn/liguojun/zh_CN/index.htm). During his doctoral studies, he conducted joint research at the [Department of Bioinformatics and Genomics](https://cci.charlotte.edu/departments/department-of-bioinformatics-and-genomics/), [College of Computing and Informatics](https://cci.charlotte.edu/) at [The University of North Carolina at Charlotte](https://www.charlotte.edu/). He subsequently pursued postdoctoral training in the [Department of Biomedical Informatics](https://medicine.osu.edu/departments/biomedical-informatics), [College of Medicine](https://medicine.osu.edu/) at [The Ohio State University](https://www.osu.edu/) and later worked in R&D at [AstraZeneca plc](https://www.astrazeneca.com/). Since March 2024, he has been an assistant professor at the [School of Mathematics, Statistics and Mechanics](https://msm.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/). He is a recipient of the Beijing High-Level Youth Talent Award and has served as a guest editor for [*Frontiers in Genetics*](https://loop.frontiersin.org/people/2319558/overview).
 
-Dr. Li’s research interests lie in gene regulatory network (GRN) inference, transcription factor binding site (TFBS) prediction, and single-cell sequencing data analysis. He has authored [over 20 peer-reviewed publications](https://scholar.google.com/citations?user=yDq-Zf4AAAAJ&hl=zh-CN) in leading journals, including *Nature Communications*, *Nucleic Acids Research*, *Briefings in Bioinformatics*, *Bioinformatics*, and *iScience*. His work has been cited over 700 times (Google Scholar), with a single article cited up to 190 times.
+Dr. Li’s research interests lie in gene regulatory network inference, transcription factor binding site prediction, and single-cell sequencing data analysis. He has authored [over 20 peer-reviewed publications](https://scholar.google.com/citations?user=yDq-Zf4AAAAJ&hl=zh-CN) in leading journals, including *Nature Communications*, *Nucleic Acids Research*, *Briefings in Bioinformatics*, *Bioinformatics*, and *iScience*. His work has been cited over 700 times ([Google Scholar](https://scholar.google.com/citations?user=yDq-Zf4AAAAJ&hl=zh-CN)), with a single article cited up to 190 times.
 
 Research Experience
 ======
@@ -30,7 +30,7 @@ Research Experience
 *Supervisors: Mahboobeh Ghaedi (Principal Scientist), Rania Dagher (Associate Principal Scientist)*  
 *March 2022 – April 2023*  
 
-**Key Projects:**  
+**Research Focus:**  
 - Modeled pulmonary emphysema using iPSC-derived foam spheroid/COPD fibroblast co-culture systems with scRNA-seq analysis  
 - Investigated susceptibility of alveolar type II progenitor cells in COPD using in vitro iPSC systems  
 - Mapped cell lineage trajectories and key regulators in COPD and IPF via pseudotemporal analysis of scRNA-seq data  
@@ -38,38 +38,35 @@ Research Experience
 ### **Postdoctoral Researcher**  
 *Departments of Biomedical Informatics & Neuroscience*  
 *The Ohio State University Wexner Medical Center, Columbus, OH, USA*  
-*Advisors: Qin Ma (Professor), Phillip G. Popovich (Professor and Chair of Neuroscience)*  
+*Advisors: [Qin Ma (Professor)](https://cancer.osu.edu/find-a-researcher/search-researcher-directory/qin-ma), [Phillip G. Popovich (Professor and Chair of Neuroscience)](https://medicine.osu.edu/find-faculty/non-clinical/neuroscience/phillip-popovich-phd)*  
 *January 2020 – March 2022*  
 
-**Major Contributions:**  
-- Developed novel algorithms to construct gene regulatory networks (GRNs), enhancer-regulons (eRegulons), and enhancer-driven GRNs (eGRNs) from scRNA-seq and scATAC-seq data  
-- Explored microglial roles in coordinating intercellular interactions for spinal cord injury (SCI) repair via scRNA-seq  
-- Studied vulnerability of the middle temporal gyrus in Alzheimer's disease (AD) through spatial transcriptomics analysis  
+**Research Focus:**  
+- Developed novel algorithms to construct gene regulatory networks, enhancer-driven regulons, and enhancer-driven GRNs from scRNA-seq and scATAC-seq data  
+- Explored microglial roles in coordinating intercellular interactions for spinal cord injury repair via scRNA-seq  
+- Studied vulnerability of the middle temporal gyrus in Alzheimer's disease through spatial transcriptomics analysis  
 - Created deep learning models for simultaneous imputation and clustering of scRNA-seq data  
 - Designed combinatorial biclustering algorithms for large-scale scRNA-seq and spatial transcriptomics data  
 - Revealed differential regulation of chemokines in tumor-associated macrophages within tumor microenvironments  
 - Built algorithms and DL models for transcription factor motif discovery from ChIP-seq, ChIP-exo, and ATAC-seq data 
 
-
-
-
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+Teaching Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### **Beijing University of Technology**  
+*2024 – Present*  
+- Instructed undergraduate and graduate courses in approximation algorithms, mathematical engineering, and integer programming  
+- Developed specialized modules on mathematical applications in bioinformatics and intelligent radiotherapy  
+- Led problem-solving sessions for engineering mathematics courses  
+
+### **The Ohio State University**  
+*2020 – 2021*  
+- Taught computational genomics and machine learning courses for medical graduate students  
+- Designed curriculum on single-cell epigenetics (scATAC-seq) and graph neural networks  
+- Created modules on statistical pitfalls in bioinformatics for interdisciplinary data science courses  
+
+### **Earlier Appointments**  
+- Teaching assistant for international combinatorics course (UGA-SDU joint program, 2013)  
+- TA for mathematical analysis in honors program (Shandong University, 2011) 
 
 Site-wide configuration
 ------
