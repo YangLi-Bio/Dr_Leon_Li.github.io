@@ -24,6 +24,8 @@ Research Experience
 - Building combinatorial optimization and machine learning models to identify key features, interactions, and regulatory networks underlying phenotypes in single-cell multi-modal data  
 - Designing deep learning methods for spatial transcriptomics to predict tissue modules and their regulatory networks  
 
+---
+
 ### **Postdoctoral Researcher**  
 *Chronic Obstructive Pulmonary Disease & Idiopathic Pulmonary Fibrosis R&D Unit*  
 *AstraZeneca, Gaithersburg, MD, USA*  
@@ -34,6 +36,8 @@ Research Experience
 - Modeled pulmonary emphysema using iPSC-derived foam spheroid/COPD fibroblast co-culture systems with scRNA-seq analysis  
 - Investigated susceptibility of alveolar type II progenitor cells in COPD using in vitro iPSC systems  
 - Mapped cell lineage trajectories and key regulators in COPD and IPF via pseudotemporal analysis of scRNA-seq data  
+
+---
 
 ### **Postdoctoral Researcher**  
 *Departments of Biomedical Informatics & Neuroscience*  
@@ -50,6 +54,8 @@ Research Experience
 - Revealed differential regulation of chemokines in tumor-associated macrophages within tumor microenvironments  
 - Built algorithms and DL models for transcription factor motif discovery from ChIP-seq, ChIP-exo, and ATAC-seq data 
 
+---
+
 Teaching Experience
 ======
 ### **Beijing University of Technology**  
@@ -58,15 +64,21 @@ Teaching Experience
 - Developed specialized modules on mathematical applications in bioinformatics and intelligent radiotherapy  
 - Led problem-solving sessions for engineering mathematics courses  
 
+---
+
 ### **The Ohio State University**  
 *2020 – 2021*  
 - Taught computational genomics and machine learning courses for medical graduate students  
 - Designed curriculum on single-cell epigenetics (scATAC-seq) and graph neural networks  
 - Created modules on statistical pitfalls in bioinformatics for interdisciplinary data science courses  
 
+---
+
 ### **Earlier Appointments**  
 - Teaching assistant for international combinatorics course (UGA-SDU joint program, 2013)  
 - TA for mathematical analysis in honors program (Shandong University, 2011) 
+
+---
 
 Site-wide configuration
 ------
