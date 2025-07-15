@@ -1,22 +1,58 @@
 ---
 permalink: /
-title: "Brief introduction"
+title: "Brief Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dr. Yang Li received his Ph.D. in Operations Research and Control Theory from the [School of Mathematics](https://www.math.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2019, under the supervision of [Prof. Guojun Li](https://faculty.sdu.edu.cn/liguojun/zh_CN/index.htm). During his doctoral studies, he conducted joint research at the [Department of Bioinformatics and Genomics](https://cci.charlotte.edu/departments/department-of-bioinformatics-and-genomics/), [College of Computing and Informatics](https://cci.charlotte.edu/) at [The University of North Carolina at Charlotte](https://www.charlotte.edu/). He subsequently pursued postdoctoral training in the [Department of Biomedical Informatics](https://medicine.osu.edu/departments/biomedical-informatics), [College of Medicine](https://medicine.osu.edu/) at [The Ohio State University](https://www.osu.edu/) and later worked in R&D at [AstraZeneca plc](https://www.astrazeneca.com/). Since March 2024, he has been an assistant professor at the [School of Mathematics, Statistics and Mechanics](https://msm.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/). He is a recipient of the Beijing High-Level Youth Talent Award and has served as a guest editor for Frontiers in Genetics.
+Dr. Yang Li received his Ph.D. in Operations Research and Control Theory from the [School of Mathematics](https://www.math.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/) in 2019, under the supervision of [Prof. Guojun Li](https://faculty.sdu.edu.cn/liguojun/zh_CN/index.htm). During his doctoral studies, he conducted joint research at the [Department of Bioinformatics and Genomics](https://cci.charlotte.edu/departments/department-of-bioinformatics-and-genomics/), [College of Computing and Informatics](https://cci.charlotte.edu/) at [The University of North Carolina at Charlotte](https://www.charlotte.edu/). He subsequently pursued postdoctoral training in the [Department of Biomedical Informatics](https://medicine.osu.edu/departments/biomedical-informatics), [College of Medicine](https://medicine.osu.edu/) at [The Ohio State University](https://www.osu.edu/) and later worked in R&D at [AstraZeneca plc](https://www.astrazeneca.com/). Since March 2024, he has been an assistant professor at the [School of Mathematics, Statistics and Mechanics](https://msm.bjut.edu.cn/), [Beijing University of Technology](https://www.bjut.edu.cn/). He is a recipient of the Beijing High-Level Youth Talent Award and has served as a guest editor for [*Frontiers in Genetics*](https://loop.frontiersin.org/people/2319558/overview).
 
-Dr. Li’s research interests lie in gene regulatory networks, transcription factor binding site prediction, and single-cell sequencing data analysis. He has authored over 20 peer-reviewed publications in leading journals, including Nature Communications (2 articles), Nucleic Acids Research, Briefings in Bioinformatics (2 articles), Bioinformatics, and iScience. His work has been cited over 530 times (Google Scholar), with a first-author publication cited up to 144 times.
+Dr. Li’s research interests lie in gene regulatory network (GRN) inference, transcription factor binding site (TFBS) prediction, and single-cell sequencing data analysis. He has authored [over 20 peer-reviewed publications](https://scholar.google.com/citations?user=yDq-Zf4AAAAJ&hl=zh-CN) in leading journals, including *Nature Communications*, *Nucleic Acids Research*, *Briefings in Bioinformatics*, *Bioinformatics*, and *iScience*. His work has been cited over 700 times (Google Scholar), with a single article cited up to 190 times.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Research Experience
 ======
+### **Assistant Professor**  
+*Institute of Operations Research and Information Engineering*  
+*School of Mathematics, Statistics and Mechanics*  
+*Beijing University of Technology*  
+*August 2024 – Present*  
+
+**Research Focus:**  
+- Developing algorithms using graph theory, combinatorial optimization, and machine learning to reconstruct regulatory networks driving cellular evolution from single-cell multi-omics data  
+- Building combinatorial optimization and machine learning models to identify key features, interactions, and regulatory networks underlying phenotypes in single-cell multi-modal data  
+- Designing deep learning methods for spatial transcriptomics to predict tissue modules and their regulatory networks  
+
+### **Postdoctoral Researcher**  
+*Chronic Obstructive Pulmonary Disease & Idiopathic Pulmonary Fibrosis R&D Unit*  
+*AstraZeneca, Gaithersburg, MD, USA*  
+*Supervisors: Mahboobeh Ghaedi (Principal Scientist), Rania Dagher (Associate Principal Scientist)*  
+*March 2022 – April 2023*  
+
+**Key Projects:**  
+- Modeled pulmonary emphysema using iPSC-derived foam spheroid/COPD fibroblast co-culture systems with scRNA-seq analysis  
+- Investigated susceptibility of alveolar type II progenitor cells in COPD using in vitro iPSC systems  
+- Mapped cell lineage trajectories and key regulators in COPD and IPF via pseudotemporal analysis of scRNA-seq data  
+
+### **Postdoctoral Researcher**  
+*Departments of Biomedical Informatics & Neuroscience*  
+*The Ohio State University Wexner Medical Center, Columbus, OH, USA*  
+*Advisors: Qin Ma (Professor), Phillip G. Popovich (Professor and Chair of Neuroscience)*  
+*January 2020 – March 2022*  
+
+**Major Contributions:**  
+- Developed novel algorithms to construct gene regulatory networks (GRNs), enhancer-regulons (eRegulons), and enhancer-driven GRNs (eGRNs) from scRNA-seq and scATAC-seq data  
+- Explored microglial roles in coordinating intercellular interactions for spinal cord injury (SCI) repair via scRNA-seq  
+- Studied vulnerability of the middle temporal gyrus in Alzheimer's disease (AD) through spatial transcriptomics analysis  
+- Created deep learning models for simultaneous imputation and clustering of scRNA-seq data  
+- Designed combinatorial biclustering algorithms for large-scale scRNA-seq and spatial transcriptomics data  
+- Revealed differential regulation of chemokines in tumor-associated macrophages within tumor microenvironments  
+- Built algorithms and DL models for transcription factor motif discovery from ChIP-seq, ChIP-exo, and ATAC-seq data 
+
+
+
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
