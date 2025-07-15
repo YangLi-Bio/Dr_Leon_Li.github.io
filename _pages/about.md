@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Yang Li (Ph.D.)"
+title: "Brief introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dr. Yang Li received his Ph.D. in Operations Research and Control Theory from School of Mathematics, Shandong University in 2019 under the supervision of Prof. Guojun Li. During his Ph.D. training, he conducted joint research at the Department of Bioinformatics and Genomics, College of Computing and Informatics, University of North Carolina at Charlotte. He subsequently completed postdoctoral training in biomedical informatics at The Ohio State University and R&D at AstraZeneca plc. Since March 2024, he has been an assistant professor at the School of Mathematics, Statistics and Mechanics, Beijing University of Technology. He is a recipient of the Beijing Overseas High-Level Young Talent Program and served as a guest editor for Frontiers in Genetics.
+<h1 align="center">Brief Introduction</h1>
+
+Dr. Yang Li received his Ph.D. in Operations Research and Control Theory from School of Mathematics, Shandong University in 2019 under the supervision of Prof. Guojun Li. During his Ph.D. training, he conducted joint research at the Department of Bioinformatics and Genomics, College of Computing and Informatics, University of North Carolina at Charlotte. He subsequently completed postdoctoral training in biomedical informatics at The Ohio State University and R&D at AstraZeneca plc. Since March 2024, he has been an assistant professor at the School of Mathematics, Statistics and Mechanics, Beijing University of Technology. He has been awarded the Beijing High-Level Youth Talent  and served as a guest editor for Frontiers in Genetics.
 
 Dr. Li’s research focuses on gene regulatory networks, transcription factor binding site prediction, and single-cell sequencing data analysis. He has published over 20 peer-reviewed papers in internationally recognized journals, including Nature Communications (2 papers), Nucleic Acids Research, Briefings in Bioinformatics (2 papers), Bioinformatics, and iScience. His work has been cited over 530 times (Google Scholar), with a single first-author publication cited up to 144 times.
 
