@@ -1,12 +1,12 @@
 <h1 align="center">Brief Introduction</h1>
 
-<p style="text-align: justify;">
+<div style="text-align: justify;">
 Dr. Yang Li received his Ph.D. in Operations Research and Control Theory from the School of Mathematics, Shandong University in 2019, under the supervision of Prof. Guojun Li. During his doctoral studies, he conducted joint research at the Department of Bioinformatics and Genomics, University of North Carolina at Charlotte. He subsequently pursued postdoctoral training in biomedical informatics at The Ohio State University and later worked in R&D at AstraZeneca. Since March 2024, he has been an assistant professor at the School of Mathematics, Statistics and Mechanics, Beijing University of Technology. He is a recipient of the Beijing High-Level Youth Talent Award and has served as a guest editor for Frontiers in Genetics.
-</p>
+</div>
 
-<p style="text-align: justify;">
+<div style="text-align: justify;">
 Dr. Li’s research interests lie in gene regulatory networks, transcription factor binding site prediction, and single-cell sequencing data analysis. He has authored over 20 peer-reviewed publications in leading journals, including Nature Communications (2 articles), Nucleic Acids Research, Briefings in Bioinformatics (2 articles), Bioinformatics, and iScience. His work has been cited over 530 times (Google Scholar), with a first-author publication cited up to 144 times.
-</p>
+</div>
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
