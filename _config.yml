@@ -261,7 +261,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "https://yangli-bio.github.io/Dr_Leon_Li.github.io/publications"
       type: publications
     values:
       layout: single
