@@ -146,7 +146,7 @@ Software
 Editorial Work
 ======
 
-1. Guest Editor: [Frontiers in Genetics](https://www.frontiersin.org/)
+1. Guest Editor: [*Frontiers in Genetics*](https://www.frontiersin.org/)
 1. Journal Reviewer: Nature, Nature Communications, Genome Biology, Nucleic Acids Research, Briefings in Bioinformatics, Bioinformatics, PLoS Computational Biology, BMC Genomics, BMC Bioinformatics, Computational Biology and Chemistry, Molecular Therapy - Nucleic Acids, Frontiers, Current Bioinformatics  
 1. Conference Reviewer: IEEE MedAI 2024  
 
