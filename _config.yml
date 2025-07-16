@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yang Li (Ph.D.)"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor | Expert in Gene Regulatory Networks | Algorithm Design in Omics Data"
   location         : "Chaoyang, Beijing, China"
   employer         : "Beijing University of Technology"
   uri              : "https://yangli-bio.github.io/Dr_Leon_Li.github.io"
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7677-9028"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=yang+li"
   researchgate     : "https://www.researchgate.net/profile/Yang-Li-53?ev=hdr_xprf"
   scopus           : # URL
 
