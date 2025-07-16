@@ -17,7 +17,7 @@ Research Experience
 *Institute of Operations Research and Information Engineering*  
 *School of Mathematics, Statistics and Mechanics*  
 *Beijing University of Technology*  
-*August 2024 – Present*  
+*April 2024 – Present*  
 
 **Research Focus:**  
 - Developing algorithms using graph theory, combinatorial optimization, and machine learning to reconstruct regulatory networks driving cellular evolution from single-cell multi-omics data  
@@ -30,7 +30,7 @@ Research Experience
 *Chronic Obstructive Pulmonary Disease & Idiopathic Pulmonary Fibrosis R&D Unit*  
 *AstraZeneca, Gaithersburg, MD, USA*  
 *Supervisors: Mahboobeh Ghaedi (Principal Scientist), Rania Dagher (Associate Principal Scientist)*  
-*March 2022 – April 2023*  
+*March 2022 – March 2024*  
 
 **Research Focus:**  
 - Modeled pulmonary emphysema using iPSC-derived foam spheroid/COPD fibroblast co-culture systems with scRNA-seq analysis  
@@ -75,31 +75,79 @@ Teaching Experience
 ---
 
 ### **Earlier Appointments**  
-- Teaching assistant for international combinatorics course (UGA-SDU joint program, 2013)  
-- TA for mathematical analysis in honors program (Shandong University, 2011) 
+- Teaching assistant for international combinatorics course
+- Teaching assistant for mathematical analysis in National Science Experiment Base (i.e., Mathematics base class, Hua Luogeng Class, or Pan Chengdong Class)
 
 ---
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Conferences
+======
+1. Workshop on Bioinformatics and Precision Medicine, January 2025, Weihai, Shandong, China  
+1. Annual Conference on Operations Research and Information Engineering, December 2024, Beijing, China  
+1. Workshop on Combinatorial & Continuous Optimization and Mathematics-Medicine Interdisciplinary Research, October 2024, Beijing, China  
+1. 15th International Conference on Computational Systems Biology (ISB 2024), August 2024, Kaifeng, Henan, China  
+1. Workshop on Bioinformatics and Precision Medicine, August 2024, Weihai, Shandong, China  
+1. Workshop on Original Exploration Program of NSFC, June 2024, Nanjing, Jiangsu, China  
+1. Parallel Forum on Modern Urban Construction (Beijing International Youth Innovation Forum) & 7th "Rixin Forum" for International Young Scholars, November 2023, Beijing, China  
+1. Young Scholars Forum on Mathematics-Computer Science-Life Sciences, July 2023, Beijing, China  
+1. Interdisciplinary Conference on Mathematics and Bioinformatics, November 2019, Qingdao, Shandong, China  
+1. Conference on Intelligent Computing and Biomedical Big Data, November 2018, Shanghai, China  
+1. Workshop on Graph Theory and Its Applications, September 2016, Jinan, Shandong, China  
+1. Young Scholars Forum on Mathematics-Computer Science-Life Sciences, May 2014, Beijing, China  
+1. International Workshop on Bioinformatics, July 2013, Shanghai, China
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+---
 
-**Markdown generator**
+Grants
+======
+1. Beijing Municipal Human Resources and Social Security Bureau, China: Research Funding for "Dynamic Analysis of Gene Regulatory Mechanisms and Algorithm Development Using Single-Cell Multi-omics Data", 09/2025-06/2026, ¥50,000, PI  
+1. Beijing University of Technology, China: Discipline Development Fund (Startup Grant #057000514125508), 01/2025-12/2025, ¥50,000, PI  
+1. Ministry of Science and Technology, China: National Key Research and Development Program "Research and Translation of Key Issues in Intelligent Radiotherapy for Tumors" (#2024YFA1014100), 12/2024-12/2027, ¥20,000,000, Participant  
+1. National Natural Science Foundation of China: General Program "Algorithm Development for Cell-Specific Analysis and Regulatory Mechanisms Using Single-Cell Multi-omics Data" (#62272270), 01/2023-12/2026, ¥550,000, Participant  
+1. National Science Foundation, United States: Early-concept Grants for Exploratory Research "IIBR Informatics: Reinforced Imputation Framework for Gene Expression Recovery from Single-Cell RNA-seq Data" (#1945971), 03/2021-02/2024, $300,000, Participant (Completed)  
+1. National Institutes of Health/National Cancer Institute, United States: U24 Resource Grant "Participant Engagement and Cancer Genome Sequencing Coordinating Center" (#U24CA252977), 08/2020-07/2025, $1,965,600, Participant (Ongoing)  
+1. National Natural Science Foundation of China: Key Program "Graph and Combinatorial Optimization-based Algorithms for Biological and Network Data Mining" (#11931008), 01/2020-12/2024, ¥2,700,000, Participant (Ongoing)  
+1. National Natural Science Foundation of China: General Program "Structural Modeling and Molecular Transport Mechanisms of Multi-family Ion Cotransporters" (#31870094), 01/2019-12/2022, ¥590,000, Participant (Completed)  
+1. National Natural Science Foundation of China: General Program "Prediction and Analysis of Cis-regulatory Motifs Using Next-Generation Sequencing Data" (#61772313), 01/2018-12/2021, ¥630,000, Participant (Completed)  
+1. National Science Foundation, United States: Advances in Bioinformatics Innovation Grant "Annotation of Cis-regulatory Sequences Using a Large Number of Chromatin Immunoprecipitation Sequencing Datasets" (#1661332), 08/2017-07/2022, $810,000, Participant (Completed)  
+1. National Natural Science Foundation of China: General Program "Metagenomic Assembly Algorithm Development via de Bruijn Graph Simplification" (#61771009), 01/2017-12/2020, ¥500,000, Participant (Completed)  
+1. National Natural Science Foundation of China: General Program "Theoretical Studies and Algorithms for Key Driver Mutation Pathways in Cancer Genomes" (#31571354), 01/2016-12/2019, ¥250,000, Participant (Completed)  
+1. National Natural Science Foundation of China: General Program "Regulatory Motif Prediction Using Chromatin Immunoprecipitation Sequencing Data and Phylogenetic Information" (#61303084), 01/2014-12/2016, ¥230,000, Participant (Completed)  
+1. National Natural Science Foundation of China: General Program "Computational Methods for Assembling Alternatively Spliced Transcriptomes from RNA-Seq Data" (#61272016), 01/2013-12/2016, ¥600,000, Participant (Completed)  
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+---
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Awards
+======
+1. Beijing High-Level Young Talent, Beijing Municipality, May 2024  
+1. Best Presentation Award: Parallel Forum on Modern Urban Construction (Beijing International Youth Innovation Forum) & 7th "Rixin Forum" for International Young Scholars, Beijing University of Technology, November 2023  
+1. Top 10 Annual Selected Papers, Ohio State University: "Elucidation of Biological Networks Across Complex Diseases Using Single-Cell Omics", First Author, January 2021
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+---
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Patents
+======
+1. Liu Bingqiang, Ma Qin, Li Yang, Wang Yizhong. Method and System for Identifying Transcription Factor Binding Sites Based on de Bruijn Graph: Chinese Patent Application 2023116137751 [P]. 2023-11-29.  
+
+---
+
+Software
+======
+
+1. [TESA](https://github.com/OSU-BMBL/tesa): Weighted two-stage sequence alignment framework for identifying DNA motifs from Chromatin Immunoprecipitation-exonuclease data (C++)  
+1. [CEMIG](https://github.com/OSU-BMBL/CEMIG): Prediction of cis-regulatory motifs using de Bruijn graph from Assay for Transposase-Accessible Chromatin with sequencing data (C++)  
+1. [STREAM](https://github.com/OSU-BMBL/STREAM): Enhancer-driven gene regulatory network inference from single-cell RNA sequencing and Assay for Transposase-Accessible Chromatin with sequencing data (R)  
+1. [ProSampler](https://github.com/zhengchangsulab/ProSampler): Ultra-fast and accurate motif discovery in large Chromatin Immunoprecipitation sequencing datasets for combinatorial motif identification (C++)  
+1. [MiMod](https://github.com/LiYangSDU/SYSTEMS): Novel algorithm for mining biological network modules (C++)  
+1. [PBlock](https://sourceforge.net/projects/PBlock/files/?source=navbar): Block-based characterization of protease specificity from substrate sequence profiles (C++)  
+
+---
+
+Editorial Work
+======
+
+1. Guest Editor: [Frontiers in Genetics](https://www.frontiersin.org/)
+1. Journal Reviewer: Nature, Nature Communications, Genome Biology, Nucleic Acids Research, Briefings in Bioinformatics, Bioinformatics, PLoS Computational Biology, BMC Genomics, BMC Bioinformatics, Computational Biology and Chemistry, Molecular Therapy - Nucleic Acids, Frontiers, Current Bioinformatics  
+1. Conference Reviewer: IEEE MedAI 2024  
+
+---
