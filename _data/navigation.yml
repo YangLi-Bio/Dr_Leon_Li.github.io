@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://yangli-bio.github.io/Dr_Leon_Li.github.io/publications/"
 
   - title: "Talks"
     url: /talks/    
