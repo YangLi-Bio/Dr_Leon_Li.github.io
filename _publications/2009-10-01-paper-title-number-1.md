@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Enhancer-driven gene regulatory networks inference from single-cell RNA-seq and ATAC-seq data"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Li-2024-Enhancer-driven-gene-regulatory-networ
+excerpt: 'STREAM advances enhancer-driven gene regulatory network (eGRN) inference by integrating Steiner forest modeling, hybrid biclustering, and submodular optimization to decipher transcription factor (TF)-enhancer-gene relationships from joint single-cell transcriptome and chromatin accessibility data. It outperforms existing methods in TF recovery, enhancer linkage prediction, and gene relation discovery. Applied to Alzheimer's disease and diffuse small lymphocytic lymphoma datasets, STREAM identifies pseudotime-associated regulatory dynamics and reveals key TF-enhancer-gene interactions underlying tumor cell mechanisms, including critical TF cooperation patterns. This approach enables precise reconstruction of gene regulatory programs in complex biological systems.'
+date: 2024-07-31
+venue: 'Briefings in Bioinformatics'
+slidesurl: 'https://yangli-bio.github.io/Dr_Leon_Li.github.io/files/slides1.pdf'
+paperurl: 'https://yangli-bio.github.io/Dr_Leon_Li.github.io/files/Li-2024-Enhancer-driven-gene-regulatory-networ.pdf'
+bibtexurl: 'https://yangli-bio.github.io/Dr_Leon_Li.github.io/files/bibtex1.bib'
+citation: 'Yang Li, Anjun Ma, Yizhong Wang, Qi Guo, Cankun Wang, Hongjun Fu, Bingqiang Liu, Qin Ma. (2024). &quot;Enhancer-driven gene regulatory networks inference from single-cell RNA-seq and ATAC-seq data.&quot; <i>Briefings in Bioinformatics</i>. 25(5).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
