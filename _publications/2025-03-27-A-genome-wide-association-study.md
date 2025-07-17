@@ -7,7 +7,7 @@ excerpt: 'Plant height influences soybean yield and stress tolerance, yet its mo
 date: 2025-03-27
 venue: 'Theoretical and Applied Genetics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/Wang-2025-A-genome-wide-association-study-prio.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Le Wang, Hong Xue, Zhenbin Hu, Yang Li, Tuya Siqin, Hengyou Zhang. (2009). &quot;A genome-wide association study prioritizes VRN1-2 as a candidate gene associated with plant height in soybean.&quot; <i>Theoretical and Applied Genetics</i>. 137(84).'
+citation: 'Le Wang, Hong Xue, Zhenbin Hu, Yang Li, Tuya Siqin, Hengyou Zhang. (2025). &quot;A genome-wide association study prioritizes VRN1-2 as a candidate gene associated with plant height in soybean.&quot; <i>Theoretical and Applied Genetics</i>. 137(84).'
 ---
