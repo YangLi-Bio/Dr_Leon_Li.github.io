@@ -1,4 +1,3 @@
-
 ---
 title: "Enhancer-driven gene regulatory networks inference from single-cell RNA-seq and ATAC-seq data"
 collection: publications
